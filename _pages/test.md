@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2018-10-31 01:23:05
 ---
+[xyz-ips snippet="GetTweets"]
